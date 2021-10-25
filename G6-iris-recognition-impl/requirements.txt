@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+opencv-contrib-python
+requests
+scikit-image
+scipy
+imutils==0.5.2
+G6-iris-recognition
